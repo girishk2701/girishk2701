@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girishk2701
-- 👀 I’m interested in Cybersecurity 
+- 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning Front-End Web Dev
 - 💞️ I’m looking to collaborate on Web-Dev projects
 - 📫 How to reach me Email: girishkchintala@gmail.com
